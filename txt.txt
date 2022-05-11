@@ -1,3 +1,9 @@
 git config --global user.name "aixairupe"
 
 git config --global user.email "aixairupe992@gmail.com"
+
+git push --set-upstream origin nueva_rama
+
+git remote add origin https://github.com/aixairupe/mi_repositorio.git
+
+git branch --set-upstream-to origin master
